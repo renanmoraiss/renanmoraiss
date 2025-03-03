@@ -37,5 +37,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
 </div>
 
-[data-a11y-link-underlines=true] .markdown-body a, [data-a11y-link-underlines=true] .markdown-body a:hover, [data-a11y-link-underlines=true] .markdown-body-short a, [data-a11y-link-underlines=true] .markdown-body-short a:hover, [data-a11y-link-underlines=true] .commit-desc a, [data-a11y-link-underlines=true] .commit-desc a:hover, [data-a11y-link-underlines=true] .Link--inTextBlock, [data-a11y-link-underlines=true] .Link--inTextBlock:hover, [data-a11y-link-underlines=true] .Links--underline a, [data-a11y-link-underlines=true] .Links--underline a:hover, [data-a11y-link-underlines=true] .repos-list-description a, [data-a11y-link-underlines=true] .extended-commit-description-container a { text-decoration: none; text-underline-offset: 0rem; }
 ###
