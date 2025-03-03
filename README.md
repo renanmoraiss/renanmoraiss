@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Minas Gerais, Brasil<br>Sistemas de Informação (1/8) - UNIFEI<br>Futuro Desenvolvedor Full-Stack (Software)</p>
+<p align="left">📍 Minas Gerais, Brasil<br>👨🏻‍🎓 Sistemas de Informação (1/8) - UNIFEI<br>👨🏻‍💻 Futuro Desenvolvedor Full-Stack (Software)</p>
 
 ###
 
