@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🌐 Socials:</h2>
+<h1 align="left">🌐 Socials:</h1>
 
 ###
 
