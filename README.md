@@ -1,3 +1,7 @@
+<h1 align="center">Bem-vindo ao meu Perfil 👋</h1>
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/rrmoraiss/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
@@ -15,10 +19,6 @@
 
 ###
 
-<h1 align="center">Bem-vindo ao meu Perfil 👋</h1>
-
-###
-
 <h2 align="left">👾 Sobre Mim</h2>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">🛠️ Linguagens</h2>
+<h2 align="left">🛠️ Linguagens e Ferramentas</h2>
 
 ###
 
@@ -35,6 +35,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moraissdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
