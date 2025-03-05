@@ -1,4 +1,4 @@
-<h1 align="left">⚡ About Me:</h1>
+<h1 align="left">⚡ Sobre Mim:</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">🌐 Socials:</h1>
+<h1 align="left">🌐 Mídias:</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="left">💻 Tech Stack:</h1>
+<h1 align="left">💻 Linguagens e Ferramentas:</h1>
 
 ###
 
