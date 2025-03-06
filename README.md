@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">🌐 Mídias:</h1>
+<h1 align="left">🌐 Minhas Redes:</h1>
 
 ###
 
