@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌍 Minas Gerais, Brasil<br>📚 Graduando em Sistemas de Informação (1/8) - UNIFEI<br>👨🏻‍💻 Futuro Desenvolvedor Full-Stack (Web & Software)<br> 📈 Membro do Dev Club</p>
+<p align="left">🌍 Minas Gerais, Brasil<br>📚 Sistemas de Informação (1/8) - UNIFEI<br>👨🏻‍💻 Futuro Desenvolvedor Full-Stack (Web & Software)<br> 📈 Membro do Dev Club</p>
 
 ###
 
