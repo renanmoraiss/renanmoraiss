@@ -20,9 +20,6 @@
   <a href="https://linktr.ee/renansmorais" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="40" alt="linktree logo"  />
   </a>
-  <a href="mailto:renanmorais1221@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
