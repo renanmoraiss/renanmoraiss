@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">🌐 Minhas Redes:</h2>
-
-###
-
 <h2 align="left">💻 Linguagens e Ferramentas:</h2>
 
 ###
