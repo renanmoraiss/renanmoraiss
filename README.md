@@ -1,4 +1,4 @@
-<h1 align="left">⚡Sobre Mim:</h1>
+<h1 align="left">⚡ Sobre Mim:</h1>
 
 ###
 
