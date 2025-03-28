@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">💻 Linguagens e Ferramentas:</h2>
+<h1 align="left">💻 Linguagens e Ferramentas:</h1>
 
 ###
 
