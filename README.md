@@ -1,8 +1,8 @@
-<h1 align="left">⚡ Sobre Mim</h1>
+<h1 align="left">👾 Sobre Mim</h1>
 
 ###
 
-<p align="left">📚 Sistemas de Informação 1/8 - UNIFEI<br>👨🏻‍💻 Futuro Desenvolvedor Full Stack</p>
+<p align="left">🌍 Minas Gerais, Brasil<br>📚 Sistemas de Informação 1/8 - UNIFEI<br>👨🏻‍💻 Futuro Desenvolvedor Full Stack</p>
 
 ###
 
