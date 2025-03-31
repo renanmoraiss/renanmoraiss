@@ -10,19 +10,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h1 align="left">Roamap Full Stack ↓</h1>
+<h1 align="left">💻 Meu Roamap Full Stack ↓</h1>
 
 ###
 
