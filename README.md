@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">📱 Minhas Redes</h1>
+<h2 align="left">📱 Minhas Redes</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="left">👨‍💻 Roamap Full Stack</h1>
+<h2 align="left">👨‍💻 Roadmap Full Stack</h2>
 
 ###
 
