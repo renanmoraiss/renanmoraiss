@@ -48,14 +48,4 @@
 
 ###
 
-<div align=left>
-<a href="https://www.linkedin.com/in/renansmorais/" target="_blank">
-<img src="https://github.com/user-attachments/assets/618ccdba-f926-4e41-bb58-16b74eb6224a" width="52" height="40" alt="linkedin logo">
-</a>
-<a href="https://www.instagram.com/rrmoraiss/" target="_blank">
-<img src="https://github.com/user-attachments/assets/08293f8d-d722-4d9a-97b8-c49ad3445da6" width="52" height="40" alt="linkedin logo">
-</a>
-</div>
-
-###
 
