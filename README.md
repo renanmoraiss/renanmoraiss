@@ -6,10 +6,6 @@
 
 ###
 
-<h1 align="left">💻 Linguagens e Ferramentas:</h1>
-
-###
-
 <h1 align="left">💻 Meu Roamap Full Stack ↓</h1>
 
 ###
