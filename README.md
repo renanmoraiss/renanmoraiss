@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">🌐 Contato</h2>
-
-###
-
 <div align="left">
   <a href="https://linktr.ee/moraissdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Minhas%20Redes&logo=linktree&label=&color=4493f8&logoColor=white&labelColor=&style=plastic" height="40" alt="linktree logo"/>
