@@ -2,7 +2,6 @@
   👨🏻‍💻 Sistemas de Informação - UNIFEI<br>
   📚 Desenvolvedor Full Stack em formação - <a href="https://www.linkedin.com/school/dev-club-devs/posts/?feedView=all">Dev Club</a><br>
   🌍 Minas Gerais, Brasil<br>
-  📜<a href="https://aulas.devclub.com.br/verify/54a1ef738c216bbb487373c1e71c106411fa5ade">HTML, CSS, Git e GitHub Certificado</a>
 </p>
 
 <hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
