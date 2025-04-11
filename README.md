@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🛠 Tecnologias e Ferramentas que Utilizo</h2>
+<h2 align="left">🛠 Tecnologias e Ferramentas</h2>
 
 ###
 
