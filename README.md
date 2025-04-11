@@ -1,4 +1,4 @@
-<h1 align="left">👾 Sobre Mim</h1>
+<h3 align="left">👾 Sobre Mim</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🛠 Tecnologias e Ferramentas</h2>
+<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
 ###
 
