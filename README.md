@@ -1,7 +1,7 @@
 <p align="left" style="line-height: 3.5;">
-  🌍 Minas Gerais, Brasil<br>
-  📚 Sistemas de Informação - UNIFEI<br>
-  👨🏻‍💻 Desenvolvedor Full Stack
+  👨🏻‍💻 Sistemas de Informação - UNIFEI<br>
+  📚 Desenvolvedor Full Stack em formação - Dev Club<br>
+  🌍 Minas Gerais, Brasil
 </p>
 
 <hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
