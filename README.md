@@ -1,5 +1,5 @@
 <p align="left">
-  <div style="margin-bottom: 14px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</div>
+  <div style="margin-bottom: 14px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</div><br>
   <div style="margin-bottom: 14px;">📚 Desenvolvedor Full Stack em formação - <a href="https://www.linkedin.com/school/dev-club-devs/posts/?feedView=all">Dev Club</a></div>
   <div style="margin-bottom: 14px;">🌍 Minas Gerais, Brasil</div>
 </p>
