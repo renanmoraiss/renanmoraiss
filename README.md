@@ -1,4 +1,10 @@
-<p align="left">🌍 Minas Gerais, Brasil<br>📚 Sistemas de Informação - UNIFEI<br>👨🏻‍💻 Desenvolvedor Full Stack</p>
+<p align="left" style="line-height: 1.8;">
+  🌍 Minas Gerais, Brasil<br>
+  📚 Sistemas de Informação - UNIFEI<br>
+  👨🏻‍💻 Desenvolvedor Full Stack
+</p>
+
+<hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
 
 ###
 
@@ -7,6 +13,8 @@
     <img src="https://img.shields.io/static/v1?message=Minhas%20Redes&logo=linktree&label=&color=4493f8&logoColor=white&labelColor=&style=plastic" height="25" alt="linktree logo"/>
   </a>
 </div>
+
+<hr style="width: 140px; margin: 8px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
 
 ###
 
@@ -27,5 +35,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
 </div>
-
-###
