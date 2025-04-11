@@ -1,6 +1,6 @@
 <p align="left" style="line-height: 3.5;">
   👨🏻‍💻 Sistemas de Informação - UNIFEI<br>
-  📚 Desenvolvedor Full Stack em formação - Dev Club<br>
+  📚 Desenvolvedor Full Stack em formação - <a href="https://www.linkedin.com/school/dev-club-devs/posts/?feedView=all">Dev Club</a><br>
   🌍 Minas Gerais, Brasil
 </p>
 
