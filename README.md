@@ -1,4 +1,4 @@
-<p align="left" style="line-height: 5px;">
+<p align="left" style="line-height: 4px;">
   👨🏻‍💻 Sistemas de Informação - UNIFEI<br>
   📚 Desenvolvedor Full Stack em formação - <a href="https://www.linkedin.com/school/dev-club-devs/posts/?feedView=all">Dev Club</a><br>
   🌍 Minas Gerais, Brasil<br>
