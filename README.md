@@ -1,4 +1,4 @@
-<p align="left" style="line-height: 2.2;">
+<p align="left" style="line-height: 2.8;">
   🌍 Minas Gerais, Brasil<br>
   📚 Sistemas de Informação - UNIFEI<br>
   👨🏻‍💻 Desenvolvedor Full Stack
