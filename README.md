@@ -1,7 +1,7 @@
-<p align="left" style="line-height: 3;">
-  👨🏻‍💻 Sistemas de Informação - UNIFEI<br>
-  📚 Desenvolvedor Full Stack em formação - <a href="https://www.linkedin.com/school/dev-club-devs/posts/?feedView=all">Dev Club</a><br>
-  🌍 Minas Gerais, Brasil<br>
+<p align="left">
+  <span style="display: block; margin-bottom: 14px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</span>
+  <span style="display: block; margin-bottom: 14px;">📚 Desenvolvedor Full Stack em formação - <a href="https://www.linkedin.com/school/dev-club-devs/posts/?feedView=all">Dev Club</a></span>
+  <span style="display: block; margin-bottom: 14px;">🌍 Minas Gerais, Brasil</span>
 </p>
 
 <hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
