@@ -1,7 +1,3 @@
-<h3 align="left">👾 Sobre Mim</h3>
-
-###
-
 <p align="left">🌍 Minas Gerais, Brasil<br>📚 Sistemas de Informação - UNIFEI<br>👨🏻‍💻 Desenvolvedor Full Stack</p>
 
 ###
@@ -14,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
+<p align="left">🛠 Tecnologias e Ferramentas</p>
 
 ###
 
