@@ -20,17 +20,17 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
-  <img width="14" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
-  <img width="14" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
-  <img width="14" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
-  <img width="14" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
-  <img width="14" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img width="14" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo"  />
 </div>
 
