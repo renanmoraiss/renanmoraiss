@@ -3,9 +3,9 @@
 ###
 
 <p align="left">
-  <div style="margin-bottom: 15px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</div>
-  <div style="margin-bottom: 15px;">📚 Desenvolvedor Full Stack em formação</div>
-  <div style="margin-bottom: 15px;">🌍 Minas Gerais, Brasil</div>
+  <div style="margin-bottom: 16px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</div>
+  <div style="margin-bottom: 16px;">📚 Desenvolvedor Full Stack em formação</div>
+  <div style="margin-bottom: 16px;">🌍 Minas Gerais, Brasil</div>
 </p>
 
 <hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
