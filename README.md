@@ -1,4 +1,4 @@
-<h2 align="left">Olá 🖐️, eu sou Renan Morais</h2>
+<h1 align="left">Olá 🖐️, eu sou Renan Morais</h1>
 
 ###
 
