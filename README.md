@@ -8,7 +8,7 @@
   <div style="margin-bottom: 16px;">🌍 Minas Gerais, Brasil</div>
 </p>
 
-<hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
+<hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc; height: 0.20em;" />
 
 ###
 
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
 </div>
 
-<hr style="width: 140px; margin: 8px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
+<hr style="width: 140px; margin: 8px 0 16px 0; border: 0; border-top: 1px solid #ccc; height: 0.20em;" />
 
 ###
 
