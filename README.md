@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">
+<p align="center">
   <div style="margin-bottom: 16px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</div>
   <div style="margin-bottom: 16px;">📚 Desenvolvedor Full Stack em formação</div>
   <div style="margin-bottom: 16px;">🌍 Minas Gerais, Brasil</div>
