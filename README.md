@@ -4,7 +4,7 @@
 
 <p align="center">
   <div style="margin-bottom: 16px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</div>
-  <div style="margin-bottom: 16px;">📚 Futuro Desenvolvedor Full Stack</div>
+  <div style="margin-bottom: 16px;">📚 Futuro Desenvolvedor Back-End</div>
   <div style="margin-bottom: 16px;">🌍 Minas Gerais, Brasil</div>
 </p>
 
