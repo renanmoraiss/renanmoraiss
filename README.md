@@ -1,35 +1,39 @@
-<h1 align="left">Olá 🖐️, eu sou Renan</h1>
+<h2 align="left">Olá! Bem-vindo(a) ao meu perfil. 🖐️</h2>
 
 ###
 
-<p align="center">
-  <div style="margin-bottom: 16px;">👨🏻‍💻 Sistemas de Informação - UNIFEI</div>
-  <div style="margin-bottom: 16px;">📚 Desenvolvedor de Software Back-End</div>
-  <div style="margin-bottom: 16px;">🌍 Minas Gerais, Brasil</div>
-</p>
+<p align="left">Meu nome é Renan, tenho 18 anos e estou cursando o segundo semestre em Sistemas de Informação pela Universidade Federal de Itajubá.</p>
 
-<hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
+###
+
+<h3 align="left">⚒️ Linguagens e Tecnologias</h3>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanmoraiss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
 </div>
 
-<hr style="width: 140px; margin: 8px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
+###
+
+<h3 align="left">📊 Estatísticas</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/renanmoraiss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/rrmoraiss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
-  </a>
-  <a href="mailto:renanmorais1221@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanmoraiss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
