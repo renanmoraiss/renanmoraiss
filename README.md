@@ -1,19 +1,21 @@
-<h1 align="left">Hi 👋, I'm Renan</h1>
+<h1 align="left">Olá 👋, eu sou o Renan</h1>
 
-• 🔭 I’m currently studying at the Federal University of Itajubá<br>
-• 🌱 I’m currently learning Node.js, MongoDB and React<br>
-• 📫 How to reach me: renanmorais1221@gmail.com<br>
-• 📚 Find out more about me: [linkedin.com/in/renanmoraiss/](https://www.linkedin.com/in/renanmoraiss/)<br>
+• 🔭 Estudante da Universidade Federal de Itajubá<br>
+• 🌱 Atualmente estou aprendendo Node.js, MongoDB e React<br>
+• 📫 Como entrar em contato comigo: renanmorais1221@gmail.com<br>
+• 📚 Saiba mais sobre mim: [linkedin.com/in/renanmoraiss/](https://www.linkedin.com/in/renanmoraiss/)<br>
 
 <p align="left">
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanmoraiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanmoraiss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-<h3 align="left">🛠 Tools and Tech:</h3>
+
+###
+<h3 align="left">🛠 Linguagens e Tecnologias:</h3>
 
 ###
 <div align="left">
