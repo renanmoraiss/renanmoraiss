@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Renan</h1>
-<h3 align="center">My name is Renan, I'm 18 years old and I'm studying Information Systems at the Federal University of Itajubá.</h3>
+<h1 align="left">Hi 👋, I'm Renan</h1>
+<h3 align="left">My name is Renan, I'm 18 years old and I'm studying Information Systems at the Federal University of Itajubá.</h3>
 
 - 🔭 I’m currently studying at the **Federal University of Itajubá**
 
